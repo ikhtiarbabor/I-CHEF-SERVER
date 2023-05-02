@@ -1,0 +1,118 @@
+[
+  {
+    "id": "chef01",
+    "image": "https://www.newidea.com.au/media/104852/wolfhang-phuc.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.5,
+    "name": "Wolfgang Puck",
+    "details": "Austrian-American chef, restaurateur and actor Wolfgang Puck is a force to be reckoned with. With over 30 restaurants under his belt, Puck is known for modern French cooking in American kitchens. He famously catered for Kim Kardashian’s wedding to Chris Humphries in 2011. Puck is a regular guest judge of MasterChef and Hell’s Kitchen. He has also starred in CSI, The Muse, Las Vegas and The Simpsons.",
+    "restaurant": [
+      "Spago",
+      "Spago Istanbuk",
+      "Chinois on Main",
+      "Postrio",
+      "Spago Las Vegas"
+    ]
+  },
+  {
+    "id": "chef02",
+    "image": "https://www.newidea.com.au/media/104853/jamie-oliver.jpg?width=1080&center=0.0,0.0",
+    "rating": 3.8,
+    "name": "Jamie Oliver",
+    "details": "British chef and restaurateur Jamie Oliver is one of the world’s most loved chefs. Not only does he create and craft delicious simple recipes, is an active campaigner for disadvantaged youth, has published 26 cookbooks, has had 35 of his own television shows and is a father to five children. His best-selling cookbook 30-Minute Meals broke records in 2010 selling over 735,000 copies in 10 weeks becoming Britain's fastest-selling nonfiction book of all time.",
+    "restaurant": [
+      "Jamie’s restaurant chain went into administration in May 2019."
+    ]
+  },
+  {
+    "id": "chef03",
+    "image": "https://www.newidea.com.au/media/104854/heston-blumenthal.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Heston Blumenthal",
+    "details": "He’s a chef you cannot forget, from his signature black frames to his innovative and unique dishes Heston Blumenthal is one of the world’s most famous chefs. He is a big believer in using scientific methods is in his cooking and has been awarded honorary degrees from Reading, Bristol and London universities. The British chef is also a regular guest on MasterChef and other television series. ",
+    "restaurant": [
+      "The Fat Duck",
+      "Dinner",
+      "The Hind’s Head",
+      "The Crown At Bray"
+    ]
+  },
+  {
+    "id": "chef04",
+    "image": "https://www.newidea.com.au/media/104855/ferran-adria.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Ferran Adria",
+    "details": "This list wouldn’t be complete without Spanish chef Ferran Adria. Adria has been named the world’s greatest chef many times with his restaurant elBulli being named the best restaurant in the world five times. He closed his three Michelin star restaurant in 2011 to write culinary encyclopedias and is also credited with creating “culinary foam” which is used by chefs around the world.",
+    "restaurant": ["elBulli (closed in 2011)"]
+  },
+  {
+    "id": "chef05",
+    "image": "https://www.newidea.com.au/media/104856/marco-pierre-white.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Marco Pierre White",
+    "details": "Dubbed the first celebrity chef, British chef, television personality and restaurateur Marco Pierre White is one of the world’s most celebrated chefs. At 32, he became the youngest chef and the first British chef to have been awarded three Michelin stars.  White has also mentored some of the world’s greatest chefs like Curtis Stone, Gordon Ramsay and Shannon Bennett.",
+    "restaurant": [
+      "London Steakhouse Co",
+      "Marco Pierre White",
+      "Steakhouse, Bar &Grill",
+      "New York Italian",
+      "Wheeler’s"
+    ]
+  },
+  {
+    "id": "chef06",
+    "image": "https://www.newidea.com.au/media/104857/gordon-ramsay.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Gordon Ramsay",
+    "details": "Affectionately known as one of the worlds most fiery chefs Gordon Ramsay’s temper has led him to fame. He’s no novice when it comes to the big screen starring in Hell's Kitchen, The F Word, and Ramsay's Kitchen Nightmares, plus the American series MasterChef, MasterChef Junior, and Hotel Hell, and the American versions of Hell's Kitchen and Kitchen Nightmares.",
+    "restaurant": [
+      "Restaurant Gordon Ramsay",
+      "Savoy Grill",
+      "Maze Grill (previously Foxtrot Oscar)",
+      "The Narrow"
+    ]
+  },
+  {
+    "id": "chef07",
+    "image": "https://www.newidea.com.au/media/104858/steam-oven-2.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Shannon Bennett",
+    "details": "Best known for his French-inspired cuisine, Australian chef Shannon Bennett has made quite a name for himself both nationally and internationally. A regular guest on Masterchef Australia and Audi ambassador is the best know for his creative menus as Head Chef at Melbourne restaurant, Vue de monde. ",
+    "restaurant": [
+      "Vue Events at Rialto",
+      "The Lui Bar",
+      "Bistro Vue",
+      "Benny Burger",
+      "Café Vue in two locations"
+    ]
+  },
+  {
+    "id": "chef08",
+    "image": "https://www.newidea.com.au/media/104859/thomas-keller.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Thomas Keller",
+    "details": "The first American chef on this list, Thomas Keller is a force to be reckoned with. He is also the recipient for the Best Chef in America in 1997 and is a perennial winner in the annual Top 50 Restaurants of the World. He currently holds seven Michelin stars in total. He also had the honour of catering for the Vanity Fair Oscars Afterparty in 2018.",
+    "restaurant": [
+      "The French Laundry",
+      "Per Se",
+      "Bouchon",
+      "Bar Bouchon",
+      "Bouchon Bakery"
+    ]
+  },
+  {
+    "id": "chef09",
+    "image": "https://www.newidea.com.au/media/104860/curtis-stone.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Curtis Stone",
+    "details": "Curtis Stone is one of Australia’s most celebrated chefs, rising to fame after an appearance on The Celebrity Apprentice. Stone started cooking at the age of four under the guidance of his grandmother. His career has seen him move to Los Angeles and appear on Surfing the Menu, Dinner in a Box, Good Food Live and Saturday Kitchen. Not only that but he was also the host of the first season of My Kitchen Rules in Australia and is now the face of Coles supermarkets. You can read more about him here.",
+    "restaurant": ["Maude Restaurant, Beverly Hills", " Gwen, Los Angeles"]
+  },
+  {
+    "id": "chef10",
+    "image": "https://www.newidea.com.au/media/104861/emeril-lagasse.jpg?width=1080&center=0.0,0.0",
+    "rating": 4.2,
+    "name": "Emeril Lagasse",
+    "details": "The father of “New New Orleans” style, Emeril Lagasse is one of the world’s greatest chefs. It is estimated that his portfolio of media, products and restaurants generates an estimated USD $150 million each year. He was also a recipient of the National Best Recipe award winner for his ‘Turkey and Hot Sausage Chili’ recipe in 2003. Emeril founded the Emeril Lagasse Foundation in 2002, which creates educational opportunities for disadvantaged children.",
+    "restaurant": null
+  }
+]
