@@ -11,7 +11,8 @@
       "Chinois on Main",
       "Postrio",
       "Spago Las Vegas"
-    ]
+    ],
+    "experience": "10 Years"
   },
   {
     "id": "chef02",
@@ -21,7 +22,8 @@
     "details": "British chef and restaurateur Jamie Oliver is one of the world’s most loved chefs. Not only does he create and craft delicious simple recipes, is an active campaigner for disadvantaged youth, has published 26 cookbooks, has had 35 of his own television shows and is a father to five children. His best-selling cookbook 30-Minute Meals broke records in 2010 selling over 735,000 copies in 10 weeks becoming Britain's fastest-selling nonfiction book of all time.",
     "restaurant": [
       "Jamie’s restaurant chain went into administration in May 2019."
-    ]
+    ],
+    "experience": "5 Years"
   },
   {
     "id": "chef03",
@@ -34,7 +36,8 @@
       "Dinner",
       "The Hind’s Head",
       "The Crown At Bray"
-    ]
+    ],
+    "experience": "9 Years"
   },
   {
     "id": "chef04",
@@ -42,7 +45,8 @@
     "rating": 4.5,
     "name": "Ferran Adria",
     "details": "This list wouldn’t be complete without Spanish chef Ferran Adria. Adria has been named the world’s greatest chef many times with his restaurant elBulli being named the best restaurant in the world five times. He closed his three Michelin star restaurant in 2011 to write culinary encyclopedias and is also credited with creating “culinary foam” which is used by chefs around the world.",
-    "restaurant": ["elBulli (closed in 2011)"]
+    "restaurant": ["elBulli (closed in 2011)"],
+    "experience": "5 Years"
   },
   {
     "id": "chef05",
@@ -56,7 +60,8 @@
       "Steakhouse, Bar &Grill",
       "New York Italian",
       "Wheeler’s"
-    ]
+    ],
+    "experience": "5 Years"
   },
   {
     "id": "chef06",
@@ -69,7 +74,8 @@
       "Savoy Grill",
       "Maze Grill (previously Foxtrot Oscar)",
       "The Narrow"
-    ]
+    ],
+    "experience": "3 Years"
   },
   {
     "id": "chef07",
@@ -83,7 +89,8 @@
       "Bistro Vue",
       "Benny Burger",
       "Café Vue in two locations"
-    ]
+    ],
+    "experience": "10 Years"
   },
   {
     "id": "chef08",
@@ -97,7 +104,8 @@
       "Bouchon",
       "Bar Bouchon",
       "Bouchon Bakery"
-    ]
+    ],
+    "experience": "5 Years"
   },
   {
     "id": "chef09",
@@ -105,7 +113,8 @@
     "rating": 4.2,
     "name": "Curtis Stone",
     "details": "Curtis Stone is one of Australia’s most celebrated chefs, rising to fame after an appearance on The Celebrity Apprentice. Stone started cooking at the age of four under the guidance of his grandmother. His career has seen him move to Los Angeles and appear on Surfing the Menu, Dinner in a Box, Good Food Live and Saturday Kitchen. Not only that but he was also the host of the first season of My Kitchen Rules in Australia and is now the face of Coles supermarkets. You can read more about him here.",
-    "restaurant": ["Maude Restaurant, Beverly Hills", " Gwen, Los Angeles"]
+    "restaurant": ["Maude Restaurant, Beverly Hills", " Gwen, Los Angeles"],
+    "experience": "10 Years"
   },
   {
     "id": "chef10",
@@ -113,6 +122,7 @@
     "rating": 3.9,
     "name": "Emeril Lagasse",
     "details": "The father of “New New Orleans” style, Emeril Lagasse is one of the world’s greatest chefs. It is estimated that his portfolio of media, products and restaurants generates an estimated USD $150 million each year. He was also a recipient of the National Best Recipe award winner for his ‘Turkey and Hot Sausage Chili’ recipe in 2003. Emeril founded the Emeril Lagasse Foundation in 2002, which creates educational opportunities for disadvantaged children.",
-    "restaurant": null
+    "restaurant": null,
+    "experience": "10 Years"
   }
 ]

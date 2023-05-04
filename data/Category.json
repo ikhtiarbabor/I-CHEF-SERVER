@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Side"
+    },
+    {
+      "id": 2,
+      "name": "Vegetarian"
+    },
+    {
+      "id": 3,
+      "name": "Pasta"
+    },
+    {
+      "id": 4,
+      "name": "Beef"
+    },
+    {
+      "id": 5,
+      "name": "Chicken"
+    },
+    {
+      "id": 6,
+      "name": "Lamb"
+    },
+    {
+      "id": 7,
+      "name": "Dessert"
+    },
+    {
+      "id": 8,
+      "name": "Society and Culture"
+    },
+    {
+      "id": 9,
+      "name": "Sports and Recreation"
+    },
+    {
+      "id": 10,
+      "name": "Travel and Tourism"
+    }
+  ]
