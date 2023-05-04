@@ -14,14 +14,14 @@ app.get('/chef/:id', (req, res) => {
   const chef = allChef.find((chef) => chef.id === id);
   res.send(chef);
 });
+
 app.get('/recipes/:chef_code', (req, res) => {
   const chef_code = req.params.chef_code;
-  const chef = allChef.find((chef) => chef.id === chef_code);
-  console.log(chef);
+
   const chefRecipes = recipes.filter(
     (recipe) => recipe.chef_code === chef_code
   );
-  const chefAndFood = [chef, ...chefRecipes];
-  res.send(chefAndFood);
+
+  res.send(chefRecipes);
 });
 app.listen(port);
