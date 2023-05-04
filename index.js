@@ -39,5 +39,9 @@ app.get('/recipes/category/:category', (req, res) => {
   );
   res.send(categoryRecipe);
 });
-
+app.get('/recipe/cooking_method/:id', (req, res) => {
+  const chef_code = req.params.id;
+  const recipe = recipes.find((recipe) => recipe.chef_code === chef_code);
+  res.send(recipe);
+});
 app.listen(port);

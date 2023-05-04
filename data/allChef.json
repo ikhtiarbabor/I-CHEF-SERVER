@@ -12,7 +12,8 @@
       "Postrio",
       "Spago Las Vegas"
     ],
-    "experience": "10 Years"
+    "experience": "10 Years",
+    "recipes": "5"
   },
   {
     "id": "chef02",
@@ -37,7 +38,8 @@
       "The Hind’s Head",
       "The Crown At Bray"
     ],
-    "experience": "9 Years"
+    "experience": "9 Years",
+    "recipes": "5"
   },
   {
     "id": "chef04",
@@ -46,7 +48,8 @@
     "name": "Ferran Adria",
     "details": "This list wouldn’t be complete without Spanish chef Ferran Adria. Adria has been named the world’s greatest chef many times with his restaurant elBulli being named the best restaurant in the world five times. He closed his three Michelin star restaurant in 2011 to write culinary encyclopedias and is also credited with creating “culinary foam” which is used by chefs around the world.",
     "restaurant": ["elBulli (closed in 2011)"],
-    "experience": "5 Years"
+    "experience": "5 Years",
+    "recipes": "5"
   },
   {
     "id": "chef05",
@@ -61,7 +64,8 @@
       "New York Italian",
       "Wheeler’s"
     ],
-    "experience": "5 Years"
+    "experience": "5 Years",
+    "recipes": "5"
   },
   {
     "id": "chef06",
@@ -75,7 +79,8 @@
       "Maze Grill (previously Foxtrot Oscar)",
       "The Narrow"
     ],
-    "experience": "3 Years"
+    "experience": "3 Years",
+    "recipes": "5"
   },
   {
     "id": "chef07",
@@ -90,7 +95,8 @@
       "Benny Burger",
       "Café Vue in two locations"
     ],
-    "experience": "10 Years"
+    "experience": "10 Years",
+    "recipes": "5"
   },
   {
     "id": "chef08",
@@ -105,7 +111,8 @@
       "Bar Bouchon",
       "Bouchon Bakery"
     ],
-    "experience": "5 Years"
+    "experience": "5 Years",
+    "recipes": "5"
   },
   {
     "id": "chef09",
@@ -114,7 +121,8 @@
     "name": "Curtis Stone",
     "details": "Curtis Stone is one of Australia’s most celebrated chefs, rising to fame after an appearance on The Celebrity Apprentice. Stone started cooking at the age of four under the guidance of his grandmother. His career has seen him move to Los Angeles and appear on Surfing the Menu, Dinner in a Box, Good Food Live and Saturday Kitchen. Not only that but he was also the host of the first season of My Kitchen Rules in Australia and is now the face of Coles supermarkets. You can read more about him here.",
     "restaurant": ["Maude Restaurant, Beverly Hills", " Gwen, Los Angeles"],
-    "experience": "10 Years"
+    "experience": "10 Years",
+    "recipes": "5"
   },
   {
     "id": "chef10",
@@ -123,6 +131,7 @@
     "name": "Emeril Lagasse",
     "details": "The father of “New New Orleans” style, Emeril Lagasse is one of the world’s greatest chefs. It is estimated that his portfolio of media, products and restaurants generates an estimated USD $150 million each year. He was also a recipient of the National Best Recipe award winner for his ‘Turkey and Hot Sausage Chili’ recipe in 2003. Emeril founded the Emeril Lagasse Foundation in 2002, which creates educational opportunities for disadvantaged children.",
     "restaurant": null,
-    "experience": "10 Years"
+    "experience": "10 Years",
+    "recipes": "5"
   }
 ]
